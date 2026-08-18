@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi, I'm Trent! 👋
 
 <!--
 **tburr-lab/tburr-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## I'm a Business Development Representative at the Tampa Bay Lightning and Georgetown University MSF graduate. I have a passion for sports with interests in sports analytics and business strategy.
 
 Here are some ideas to get you started:
 
